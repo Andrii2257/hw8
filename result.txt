@@ -1,0 +1,64 @@
+сент. 08, 2023 12:30:25 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 8.0.1 by Redgate
+сент. 08, 2023 12:30:25 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:mysql://localhost:3306/osbb (MySQL 8.0)
+сент. 08, 2023 12:30:25 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 2 migrations (execution time 00:00.042s)
+сент. 08, 2023 12:30:25 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table `osbb`.`flyway_schema_history` ...
+сент. 08, 2023 12:30:25 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema `osbb`: << Empty Schema >>
+сент. 08, 2023 12:30:25 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema `osbb` to version "001 - init"
+сент. 08, 2023 12:30:25 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema `osbb` to version "002 - insert"
+сент. 08, 2023 12:30:25 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 2 migrations to schema `osbb`, now at version v002 (execution time 00:00.336s)
+Driver loading success
+1. Горобець Євлампій Остапович, box31@gmail.com, вул. Б.Хмельницького, 50, 37.3, 31
+2. Козачинський Христофор Драганович, box27@gmail.com, вул. Б.Хмельницького, 50, 78.6, 27
+3. Калинець Щедрогост Остапович, box25@gmail.com, вул. Б.Хмельницького, 50, 78.2, 25
+4. Полетика Пилип Федорович, box24@gmail.com, вул. Б.Хмельницького, 50, 37.1, 24
+5. Жупан Ладимир Жданович, box23@gmail.com, вул. Б.Хмельницького, 50, 54.9, 23
+6. Тарнавський Царук Никодимович, box20@gmail.com, вул. Б.Хмельницького, 50, 108.3, 20
+7. Воєвода Юліан Бажанович, box18@gmail.com, вул. Б.Хмельницького, 50, 36.3, 18
+8. Швець Есфір Юхимович, box17@gmail.com, вул. Б.Хмельницького, 50, 36.9, 17
+9. Шандрук Шаміль Глібович, box14@gmail.com, вул. Б.Хмельницького, 50, 34.6, 14
+10. Мартиновський Шерлок Августинович, box13@gmail.com, вул. Б.Хмельницького, 50, 55.2, 13
+11. Мицик Яровид Златович, box9@gmail.com, вул. Б.Хмельницького, 50, 74.9, 9
+12. Авдуєвський Тімох Федорович, box7@gmail.com, вул. Б.Хмельницького, 50, 80.5, 7
+13. Шаніна Ірина Олександрівна, box2@gmail.com, вул. Б.Хмельницького, 50, 38.8, 2
+14. Потушняк Ус Макарович, box65@gmail.com, вул. Б.Хмельницького, 52, 38.8, 32
+15. Гопко Щастислав Янович, box63@gmail.com, вул. Б.Хмельницького, 52, 35.5, 30
+16. Ратушняк Єгор Мстиславович, box62@gmail.com, вул. Б.Хмельницького, 52, 101.5, 29
+17. Кивелюк Шарль Милославович, box61@gmail.com, вул. Б.Хмельницького, 52, 50.4, 28
+18. Ванченко Данило Денисович, box58@gmail.com, вул. Б.Хмельницького, 52, 34.0, 25
+19. Стебельський Йоханес Ратиборович, box57@gmail.com, вул. Б.Хмельницького, 52, 83.0, 24
+20. Шулежко Гервасій Зорянович, box56@gmail.com, вул. Б.Хмельницького, 52, 38.8, 23
+21. Луцишин Йошка Янович, box55@gmail.com, вул. Б.Хмельницького, 52, 68.7, 22
+22. Чарниш Мстислав Тарасович, box54@gmail.com, вул. Б.Хмельницького, 52, 95.6, 21
+23. Шанковський Полян Сарматович, box53@gmail.com, вул. Б.Хмельницького, 52, 74.1, 20
+24. Паторжинський Перелюб Валентинович, box52@gmail.com, вул. Б.Хмельницького, 52, 34.1, 19
+25. Грибовський Йосеф Августинович, box48@gmail.com, вул. Б.Хмельницького, 52, 66.5, 15
+26. Добряк Гнат Охримович, box45@gmail.com, вул. Б.Хмельницького, 52, 70.5, 12
+27. Тиханович Радило Вікторович, box38@gmail.com, вул. Б.Хмельницького, 52, 70.1, 5
+28. Шаніна Ірина Олександрівна, box2@gmail.com, вул. Б.Хмельницького, 52, 38.1, 2
+29. Омельчук Йомер Августинович, box99@gmail.com, вул. Б.Хмельницького, 54, 106.9, 33
+30. Чех Шаміль Герасимович, box97@gmail.com, вул. Б.Хмельницького, 54, 100.8, 31
+31. Бойчук Велемудр Полянович, box95@gmail.com, вул. Б.Хмельницького, 54, 78.3, 29
+32. Іванець Євстафій Борисович, box93@gmail.com, вул. Б.Хмельницького, 54, 34.2, 27
+33. Якубовський Онуфрій Сарматович, box90@gmail.com, вул. Б.Хмельницького, 54, 83.3, 24
+34. Борушенко Йонас Артемович, box87@gmail.com, вул. Б.Хмельницького, 54, 35.8, 21
+35. Бенч Лоліт Герасимович, box81@gmail.com, вул. Б.Хмельницького, 54, 50.8, 15
+36. Гурко Звенимир Ігорович, box80@gmail.com, вул. Б.Хмельницького, 54, 57.4, 14
+37. Середюк Едуард Володимирович, box79@gmail.com, вул. Б.Хмельницького, 54, 55.4, 13
+38. Іваничук Чернин Артурович, box78@gmail.com, вул. Б.Хмельницького, 54, 84.8, 12
+39. Богуцький Красун Соломонович, box76@gmail.com, вул. Б.Хмельницького, 54, 82.7, 10
+40. Остапчук Жадан Іванович, box75@gmail.com, вул. Б.Хмельницького, 54, 75.0, 9
+41. Долиняк Худан Соломонович, box74@gmail.com, вул. Б.Хмельницького, 54, 59.1, 8
+42. Доленко Турбог Драганович, box72@gmail.com, вул. Б.Хмельницького, 54, 37.7, 6
+43. Костенецький Еммануїл Тарасович, box71@gmail.com, вул. Б.Хмельницького, 54, 110.7, 5
+44. Чаплич Панас Борисович, box70@gmail.com, вул. Б.Хмельницького, 54, 33.4, 4
+45. Трофименко Милодух Артурович, box67@gmail.com, вул. Б.Хмельницького, 54, 50.9, 1
+
+Process finished with exit code 0
