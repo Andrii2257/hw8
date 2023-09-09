@@ -1,14 +1,11 @@
 package org.example.data;
 
-public class ConfigOsbb {
-    public static String getUrl() {
-        return "jdbc:mysql://localhost:3306/osbb";
-    }
-    public static String getLogin() {
-      return "root";
-    }
-    public static String getPassword() {
-        return "Spring2257";
+public final class ConfigOsbb {
+    public static final String URL = "jdbc:mysql://localhost:3306/osbb";
+    public static final String LOGIN = "root";
+    public static final String PASSWORD = "Spring2257";
+
+    private ConfigOsbb() {
     }
 
 }
